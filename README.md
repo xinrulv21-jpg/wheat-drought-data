@@ -1,4 +1,4 @@
-# Wheat Drought-Tolerance Data
+# Wheat drought-tolerance data
 This repository contains genotypic and phenotypic data supporting a study of drought tolerance in spring wheat.
 ## Files
 ### Genotype.hmp.zip
